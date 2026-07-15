@@ -5,7 +5,6 @@ I am an Information Technology student passionate about software development, da
 
 * 🎓 **Department:** Information Technology (Vocational & Technical High School)
 * 📍 **Location:** Turkey
-* ⚡ **Fun Fact:** I love tracking aviation, aircraft spotting, and running retro Windows OS versions inside virtual machines!
 
 ---
 
