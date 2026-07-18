@@ -4,7 +4,7 @@
 I am an Information Technology student passionate about software development, database management, and operating systems. I love writing code, learning new technologies, and building projects.
 
 * 🎓 **Department:** Information Technology (Vocational & Technical High School)
-* 📍 **Location:** Turkey
+* 📍 **Location:** Türkiye
 
 ---
 
