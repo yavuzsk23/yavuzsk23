@@ -21,10 +21,3 @@ I am an Information Technology student passionate about software development, da
 * ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 * ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 * ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-
----
-
-## 📈 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yavuzsk23&show_icons=true&theme=radical" alt="Yavuz's GitHub Stats" />
-</p>
