@@ -9,9 +9,8 @@ Ich bin ein technologiebegeisterter Mensch mit großem Interesse an Softwareentw
 Ich arbeite regelmäßig an persönlichen Projekten, teile Code und entwickle meine technischen Fähigkeiten kontinuierlich durch praktische Erfahrungen weiter.
 Mein langfristiges Ziel ist es, eine Karriere in der Technologiebranche aufzubauen und berufliche Chancen in Deutschland wahrzunehmen.
 
-
-   **Department:** Information Technology (Vocational & Technical High School)
-   **Location:** Türkiye
+*  **Department:** Information Technology (Vocational & Technical High School)
+*   **Location:** Türkiye
 
 ---
 
