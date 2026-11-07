@@ -2,13 +2,13 @@
 
 ##  About Me
 
-# I am a software development enthusiast with a strong interest in operating systems, programming, and modern technologies.
-# I regularly work on personal projects, share code, and continuously improve my technical skills through practical experience.
-# My long-term objective is to build a career in the technology sector and pursue professional opportunities in Germany.
+##I am a software development enthusiast with a strong interest in operating systems, programming, and modern technologies.
+## I regularly work on personal projects, share code, and continuously improve my technical skills through practical experience.
+## My long-term objective is to build a career in the technology sector and pursue professional opportunities in Germany.
 
-# Ich bin ein technologiebegeisterter Mensch mit großem Interesse an Softwareentwicklung, Betriebssystemen und modernen Technologien.
-# Ich arbeite regelmäßig an persönlichen Projekten, teile Code und entwickle meine technischen Fähigkeiten kontinuierlich durch praktische Erfahrungen weiter.
-# Mein langfristiges Ziel ist es, eine Karriere in der Technologiebranche aufzubauen und berufliche Chancen in Deutschland wahrzunehmen.
+## Ich bin ein technologiebegeisterter Mensch mit großem Interesse an Softwareentwicklung, Betriebssystemen und modernen Technologien.
+## Ich arbeite regelmäßig an persönlichen Projekten, teile Code und entwickle meine technischen Fähigkeiten kontinuierlich durch praktische Erfahrungen weiter.
+## Mein langfristiges Ziel ist es, eine Karriere in der Technologiebranche aufzubauen und berufliche Chancen in Deutschland wahrzunehmen.
 
 *  **Department:** Information Technology (Vocational & Technical High School)
 *   **Location:** Türkiye
